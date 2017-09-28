@@ -1,0 +1,41 @@
+/*html,body{
+	margin: 0;
+
+}
+ul{
+	margin:0;
+	padding: 0;
+
+}
+
+li{
+	float: left;
+	padding: 10px 20px;
+	background: gray;
+	list-style: none;
+	cursor: pointer;
+
+}
+
+.active{
+	background: yellow;
+
+}*/
+
+
+
+
+/*yumru radius miska hara gedirse oistiqamete gedir*/
+html,body{
+	margin: 0;
+
+}
+
+.main{
+	width: 20px;
+	height: 20px;
+	background: skyblue;
+	border-radius: 100%;
+	transition: all.4s linear;
+	position: absolute;
+}
